@@ -3,7 +3,7 @@ eip:
 title: User Owned Social/Reputation Profiles
 description: A user owned social profile contract that utilizes authoritative contracts owned by external entities to enforce posting rules and avoid sybil attacks
 author: o080o (@o0880o), Austin Motley (@PizzaHi5), Cameron Loo (@camloo), Jonathan White (@jonvaljonathan),
-discussions-to: 
+discussions-to: https://ethereum-magicians.org/t/draft-erc-user-owned-social-reputation-profiles/13170
 status: Draft
 type: Standards Track
 category: ERC
